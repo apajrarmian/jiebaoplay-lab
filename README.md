@@ -1,2 +1,14 @@
 # jiebaoplay-lab
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+本仓库作为页面发布目录，保存任务生成的 HTML 文件。
+
+## 内容保存
+
+- 根目录保存页面文件
+- 提交历史记录文件变化
+
+## 维护记录
+
+后续发布会继续追加页面，已有文件不会在 README 中逐一列出。
